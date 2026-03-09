@@ -21,12 +21,31 @@ https://www.satendracoder.com
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
-* GitHub: https://github.com/satendracoder
-* LinkedIn: https://linkedin.com/in/satendracoder
-* LeetCode: https://leetcode.com/satendracoder
-* Portfolio: https://www.satendracoder.com
+<p align="left">
+
+<a href="https://github.com/satendracoder">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/satendracoder">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/satendracoder">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.satendracoder.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:satendracoder@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
