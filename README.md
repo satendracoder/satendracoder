@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
-<h3 align="center">Senior Angular Developer (3.5+ Years) | Full Stack (Angular + Java)</h3>
+<h1 align="center">Hi 👋, I'm Satendra</h1>
+<h3 align="center">Senior Angular Developer (4+ Years) | Full Stack (Angular + Java)</h3>
 
 <p align="center">
 Building scalable fintech and enterprise web applications.
@@ -209,7 +209,9 @@ Reusable Angular **loader and toast notification libraries**.
 
 # 🧠 LeetCode
 
-https://leetcode.com/satendracoder
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/satendracoder?theme=dark&font=baloo&ext=contest&border=0" />
+</p>
 
 ---
 
