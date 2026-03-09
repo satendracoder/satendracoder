@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
+<h1 align="center">Hi 👋, I'm Satendra</h1>
 <h3 align="center">Full Stack Developer | Angular | Java | Spring Boot</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=satendracoder&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer with **3.5+ years experience**
+- 💼 Full Stack Developer with **3.9+ years experience**
 - 💻 Strong in **Angular (2+ years)**
 - ⚙️ Backend experience in **Java & Spring Boot**
 - 🗄 Database: **MySQL**
@@ -65,28 +65,28 @@
 
 ## 📊 GitHub Stats
 
-![Satendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Satendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=satendracoder&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satendracoder&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satendracoder&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 🧠 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME
+- 💼 LinkedIn: https://linkedin.com/in/satendracoder
+- 🐙 GitHub: https://github.com/satendracoder
+- 🧠 LeetCode: https://leetcode.com/satendracoder
 
 ---
 
-⭐ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐ From [YOUR_GITHUB_USERNAME](https://github.com/satendracoder)
