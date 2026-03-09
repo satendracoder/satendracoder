@@ -184,9 +184,19 @@ Reusable Angular **loader and toast notification libraries**.
 </p>
 ---
 
-# 📈 Top Languages
+## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satendracoder\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendracoder&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satendracoder&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 
