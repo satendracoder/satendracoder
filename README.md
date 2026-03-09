@@ -196,9 +196,8 @@ Reusable Angular **loader and toast notification libraries**.
 
 # 🔥 GitHub Streak
 
-<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satendracoder\&theme=tokyonight)
-</p>
+
 ---
 
 # 📈 Top Languages
