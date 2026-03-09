@@ -32,7 +32,7 @@ https://www.satendracoder.com
 
 # 👨‍💻 Professional Summary
 
-Senior Angular Developer with **3.5+ years of experience** building scalable and secure web applications using **Angular 14–18, RxJS, Signals, and Java Spring Boot**.
+Senior Angular Developer with **4+ years of experience** building scalable and secure web applications using **Angular 14–18, RxJS, Signals, and Java Spring Boot**.
 
 Experienced in **FinTech modules like AEPS, Recharge, Micro-ATM, Bill Payments, and Loan systems** with strong knowledge of **REST API integration, JWT authentication, and reusable component architecture**.
 
