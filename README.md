@@ -58,51 +58,16 @@ Experienced in **FinTech modules like AEPS, Recharge, Micro-ATM, Bill Payments, 
 Skilled in **Git, CI/CD pipelines, PWA, Device SDK integration, and automation using Selenium WebDriver**.
 
 ---
+## 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
-### Frontend
-
-Angular 14-18
-RxJS
-TypeScript
-JavaScript
-HTML5
-CSS3 / SCSS
-Angular Material
-Bootstrap
-Tailwind
-
-### Backend
-
-Java
-Spring Boot
-REST APIs
-JWT Authentication
-
-### Database
-
-MySQL
-
-### Tools & Platforms
-
-Git
-GitHub Actions (CI/CD)
-Postman
-IntelliJ IDEA
-Selenium WebDriver
-PWA
-Jira
-
-### Concepts
-
-Reactive Forms
-Lazy Loading
-Module Splitting
-HTTP Interceptors
-Role-Based Access Control (RBAC)
-Reusable Components
-Cross-Browser Compatibility
+| Category | Technologies |
+|--------|-------------|
+| **Frontend** | Angular 14–18, RxJS, TypeScript, JavaScript, HTML5, CSS3, SCSS, Angular Material, Bootstrap, Tailwind |
+| **Backend** | Java, Spring Boot, REST APIs, JWT Authentication |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira |
+| **Other** | Selenium WebDriver, PWA, Device SDK Integration |
+| **Concepts** | Reactive Forms, Lazy Loading, Module Splitting, Interceptors, RBAC, Reusable Components |
 
 ---
 
