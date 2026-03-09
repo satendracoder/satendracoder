@@ -190,15 +190,15 @@ Reusable Angular **loader and toast notification libraries**.
 ---
 
 # 📊 GitHub Stats
-<p align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satendracoder\&show_icons=true\&theme=tokyonight)
-</p>
 ---
 
 # 🔥 GitHub Streak
 
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satendracoder\&theme=tokyonight)
-
+</p>
 ---
 
 # 📈 Top Languages
