@@ -11,17 +11,11 @@ Building scalable fintech and enterprise web applications 🚀
 
 ---
 
-# 🌐 Portfolio
-
-🚀 **Website**
-https://www.satendracoder.com
-
----
-
 # 📞 Contact
 
 📧 Email: [satendracoder@gmail.com](mailto:satendracoder@gmail.com)
 📱 Mobile: +91 8859758708
+🚀 Website: https://www.satendracoder.com
 
 ---
 
