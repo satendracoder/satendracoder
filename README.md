@@ -67,14 +67,16 @@ Skilled in **Git, CI/CD pipelines, PWA development, SDK integrations, and automa
 
 # 🛠 Tech Stack
 
-| Category     | Technologies                                                                                          |
-| ------------ | ----------------------------------------------------------------------------------------------------- |
+| Category | Technologies |
+|--------|-------------|
 | **Frontend** | Angular 14–18, RxJS, TypeScript, JavaScript, HTML5, CSS3, SCSS, Angular Material, Bootstrap, Tailwind |
-| **Backend**  | Java, Spring Boot, REST APIs, JWT Authentication                                                      |
-| **Database** | MySQL                                                                                                 |
-| **Tools**    | Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira                                             |
-| **Other**    | Selenium WebDriver, PWA, Device SDK Integration                                                       |
-| **Concepts** | Reactive Forms, Lazy Loading, Module Splitting, Interceptors, RBAC, Reusable Components               |
+| **Backend** | Java, Spring Boot, REST APIs, JWT Authentication |
+| **Database** | MySQL |
+| **DevOps / CI-CD** | Jenkins, GitHub Actions, Docker |
+| **Tools** | Git, GitHub, Postman, IntelliJ IDEA, VS Code |
+| **Project Management** | Jira, Scrum, Microsoft Teams |
+| **Other** | PWA, TWA,  Device SDK Integration, Mantra Bio, Micro-ATM |
+| **Concepts** | Reactive Forms, Lazy Loading, Module Splitting, Interceptors, RBAC, Reusable Components |
 
 ---
 
