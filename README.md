@@ -59,7 +59,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/satendracoder?theme=dark&font=baloo)
 
 ---
 
