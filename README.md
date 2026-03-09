@@ -2,7 +2,11 @@
 <h3 align="center">Senior Angular Developer (4+ Years) | Full Stack (Angular + Java)</h3>
 
 <p align="center">
-Building scalable fintech and enterprise web applications.
+Building scalable fintech and enterprise web applications 🚀
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Angular+Developer;Full+Stack+Developer+(Angular+%2B+Java);FinTech+Application+Builder;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
 ---
@@ -21,7 +25,7 @@ https://www.satendracoder.com
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <p align="left">
 
@@ -53,21 +57,30 @@ https://www.satendracoder.com
 
 Senior Angular Developer with **4+ years of experience** building scalable and secure web applications using **Angular 14–18, RxJS, Signals, and Java Spring Boot**.
 
-Experienced in **FinTech modules like AEPS, Recharge, Micro-ATM, Bill Payments, and Loan systems** with strong knowledge of **REST API integration, JWT authentication, and reusable component architecture**.
+Experienced in **FinTech modules like AEPS, Recharge, Micro-ATM, Bill Payments, and Loan Management Systems** with strong expertise in **REST API integration, JWT authentication, and reusable component architecture**.
 
-Skilled in **Git, CI/CD pipelines, PWA, Device SDK integration, and automation using Selenium WebDriver**.
+Skilled in **Git, CI/CD pipelines, PWA development, SDK integrations, and automation using Selenium WebDriver**.
 
 ---
-## 🛠 Tech Stack
 
-| Category | Technologies |
-|--------|-------------|
+# ⚡ Core Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,java,spring,mysql,git,github,postman,docker,vscode"/>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+| Category     | Technologies                                                                                          |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
 | **Frontend** | Angular 14–18, RxJS, TypeScript, JavaScript, HTML5, CSS3, SCSS, Angular Material, Bootstrap, Tailwind |
-| **Backend** | Java, Spring Boot, REST APIs, JWT Authentication |
-| **Database** | MySQL |
-| **Tools** | Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira |
-| **Other** | Selenium WebDriver, PWA, Device SDK Integration |
-| **Concepts** | Reactive Forms, Lazy Loading, Module Splitting, Interceptors, RBAC, Reusable Components |
+| **Backend**  | Java, Spring Boot, REST APIs, JWT Authentication                                                      |
+| **Database** | MySQL                                                                                                 |
+| **Tools**    | Git, GitHub, GitHub Actions, Postman, IntelliJ IDEA, Jira                                             |
+| **Other**    | Selenium WebDriver, PWA, Device SDK Integration                                                       |
+| **Concepts** | Reactive Forms, Lazy Loading, Module Splitting, Interceptors, RBAC, Reusable Components               |
 
 ---
 
@@ -75,37 +88,37 @@ Skilled in **Git, CI/CD pipelines, PWA, Device SDK integration, and automation u
 
 ### Full Stack Developer (Angular + Java)
 
-Vastika Technologies — Contract
+**Vastika Technologies — Contract**
 Dec 2024 – Present
 
-* Built configurable **loan journeys for ADCB LOS** using Angular.
-* Implemented **dynamic UI rendering using backend flags**.
-* Developed **document upload, eligibility checks, and application tracking modules**.
-* Built **dealer loan dashboards for Axis Bank LOS**.
+* Built configurable **loan journeys for ADCB LOS** using Angular
+* Implemented **dynamic UI rendering using backend driven flags**
+* Developed **document upload, eligibility checks, and application tracking modules**
+* Built **dealer dashboards and loan workflows for Axis Bank LOS**
 
 ---
 
 ### Full Stack Developer (Angular + Java)
 
-Redmil Business Mall
+**Redmil Business Mall**
 Sep 2024 – Nov 2025
 
-* Developed fintech modules **AEPS, Micro-ATM, Recharge, Bill Payment, Cash-Out**.
-* Implemented **JWT based secure authentication with RBAC**.
-* Integrated **Mantra & Morpho biometric devices with Angular SDKs**.
-* Reduced **transaction errors by 40%**.
-* Automated workflows using **Spring Boot + Selenium WebDriver**.
+* Developed fintech modules **AEPS, Micro-ATM, Recharge, Bill Payment, Cash-Out**
+* Implemented **JWT based authentication with RBAC**
+* Integrated **Mantra & Morpho biometric devices with Angular SDKs**
+* Reduced **transaction errors by 40%**
+* Automated workflows using **Spring Boot + Selenium WebDriver**
 
 ---
 
 ### Angular Developer
 
-Redmil Business Mall
+**Redmil Business Mall**
 Apr 2022 – Apr 2024
 
-* Developed financial service applications using Angular.
-* Built **reusable UI components with RxJS**.
-* Reduced UI latency by **35% using zone-less patterns**.
+* Built Angular applications for financial platforms
+* Developed **reusable UI components using RxJS**
+* Reduced **UI latency by 35% using optimized change detection**
 
 ---
 
@@ -113,35 +126,35 @@ Apr 2022 – Apr 2024
 
 ### Satendracoder Developer Suite (Open Source)
 
-Full stack developer utility platform with tools like:
+Full stack developer utility platform including tools like:
 
 * JSON Formatter
 * Base64 Encoder
 * QR Generator
 
-Tech: Angular, Spring Boot, JWT, MySQL, Docker
+Tech: Angular • Spring Boot • JWT • MySQL • Docker
 
 ---
 
 ### ADCB Loan Origination System
 
-Configurable multi-step loan journey platform.
+Configurable multi-step loan journey platform for financial onboarding.
 
-Tech: Angular, Spring Boot, Angular Material
+Tech: Angular • Spring Boot • Angular Material
 
 ---
 
 ### Axis Bank Dealer LOS
 
-Dealer loan origination dashboards and workflows.
+Dealer loan origination dashboards and tracking modules.
 
-Tech: Angular, Spring Boot, MySQL
+Tech: Angular • Spring Boot • MySQL
 
 ---
 
 ### Redmil FinTech Platform
 
-Complete fintech web application supporting:
+Complete fintech platform supporting:
 
 * AEPS
 * Recharge
@@ -149,31 +162,30 @@ Complete fintech web application supporting:
 * Wallet Transactions
 * Micro-ATM
 
-Tech: Angular, REST APIs, JWT, RxJS
+Tech: Angular • REST APIs • JWT • RxJS
 
 ---
 
 ### HDFC Loan CRM
 
-Customer onboarding and loan workflow management system.
+Customer onboarding and loan approval workflow system.
 
-Tech: Angular, REST APIs, JWT
-
----
-
-# 🧩 Open Source Contributions
-
-### SC Angular Generator
-
-VS Code extension that **automates Angular boilerplate generation**.
-
-### SC Angular Loader & Toastify
-
-Reusable Angular **loader and toast notification libraries**.
+Tech: Angular • REST APIs • JWT
 
 ---
 
-## 📊 GitHub Stats
+# ⭐ Featured Projects
+
+| Project          | Description                        | Tech                 |
+| ---------------- | ---------------------------------- | -------------------- |
+| Developer Suite  | 10+ developer utilities platform   | Angular, Spring Boot |
+| ADCB LOS         | Loan Origination System            | Angular, Spring Boot |
+| Axis Bank LOS    | Dealer Loan Journey System         | Angular              |
+| FinTech Platform | AEPS, Recharge, Micro-ATM services | Angular, REST APIs   |
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -182,17 +194,10 @@ Reusable Angular **loader and toast notification libraries**.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendracoder&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendracoder&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satendracoder&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"/>
@@ -204,6 +209,22 @@ Reusable Angular **loader and toast notification libraries**.
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/satendracoder?theme=dark&font=baloo&ext=contest&border=0" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=satendracoder&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/satendracoder/satendracoder/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
