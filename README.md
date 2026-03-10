@@ -85,7 +85,7 @@ Skilled in **Git, CI/CD pipelines, PWA development, SDK integrations, and automa
 ### Full Stack Developer (Angular + Java)
 
 **Vastika Technologies — Contract**
-Dec 2024 – Present
+Dec 2024 – Mar 2026
 
 * Built configurable **loan journeys for ADCB LOS** using Angular
 * Implemented **dynamic UI rendering using backend driven flags**
