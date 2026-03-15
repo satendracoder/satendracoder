@@ -52,7 +52,7 @@ Building scalable fintech and enterprise web applications 🚀
 **Full Stack developer** with **3.5+ years of experience** in building responsive, secure, and scalable web applications using **Angular (v14 18), TypeScript, RxJS**, and Signals. Strong expertise in UI/UX optimization, REST API integration, and JWT-based authentication. 
 Experienced in developing fintech solutions including **AEPS, Recharge, Micro-ATM, Bill Payments, and Banking LOS** modules using 
 reusable and scalable component architecture. 
-Proficient with modern development tools and workflows including **Git, GitHub, CI/CD pipelines, PWA development, Device SDK**
+* Proficient with modern development tools and workflows including **Git, GitHub, CI/CD pipelines, PWA development, Device SDK**
 integrations, and Postman for API testing. Additionally, I have **1.5+ years of hands-on experience in Java Spring Boot** for developing 
 and maintaining secure REST APIs and backend services.
 
