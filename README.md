@@ -178,15 +178,13 @@ admin dashboard.
 
 ---
 
-# ⭐ Top Projects
+# ⭐ Angular Utilities & Extensions
 
-| Project          | Description                        | Tech                 | 
-| ---------------- | ---------------------------------- | -------------------- |
-| Personal Project | Built under the personal brand     | Angular, Spring Boot |
-| ADCB LOS         | Loan Origination System            | Angular, Spring Boot |
-| Axis Bank LOS    | Dealer Loan Journey System         | Angular              |
-| FinTech Platform | AEPS, Recharge, Micro-ATM services | Angular, REST APIs   | 
-
+| Tool / Extension        | Description                                                      | Type              |
+| ----------------------- | ---------------------------------------------------------------- | ---------------- |
+| SC-Angular-Generator     | Automates Angular boilerplate generation for components, services, and modules. | VS Code Extension |
+| SC Angular Loader        | Lightweight loader library for Angular standalone components.    | NPM Library       |
+| SC Angular Toastify      | Toast notification library for Angular standalone components.    | NPM Library       |
 ---
 
 # 📊 GitHub Stats
