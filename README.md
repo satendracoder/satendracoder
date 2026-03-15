@@ -49,11 +49,12 @@ Building scalable fintech and enterprise web applications 🚀
 
 # 👨‍💻 Professional Summary
 
-Senior Angular Developer with **3.5+ years of experience** building scalable and secure web applications using **Angular 14–18, RxJS, Signals, and Java Spring Boot**.
-
-Experienced in **FinTech modules like AEPS, Recharge, Micro-ATM, Bill Payments, and Loan Management Systems** with strong expertise in **REST API integration, JWT authentication, and reusable component architecture**.
-
-Skilled in **Git, CI/CD pipelines, PWA development, SDK integrations, and automation using Selenium WebDriver**.
+**Full Stack developer** with **3.5+ years of experience** in building responsive, secure, and scalable web applications using **Angular (v14 18), TypeScript, RxJS**, and Signals. Strong expertise in UI/UX optimization, REST API integration, and JWT-based authentication. 
+Experienced in developing fintech solutions including **AEPS, Recharge, Micro-ATM, Bill Payments, and Banking LOS** modules using 
+reusable and scalable component architecture. 
+Proficient with modern development tools and workflows including **Git, GitHub, CI/CD pipelines, PWA development, Device SDK**
+integrations, and Postman for API testing. Additionally, I have **1.5+ years of hands-on experience in Java Spring Boot** for developing 
+and maintaining secure REST APIs and backend services.
 
 ---
 
@@ -87,11 +88,11 @@ Skilled in **Git, CI/CD pipelines, PWA development, SDK integrations, and automa
 **Vastika Technologies — Contract**
 Dec 2024 – 03 April 2026
 
-*•Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan 
+*Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan 
   onboarding workflow efficiency by 30%. 
-*• Implemented dynamic UI rendering using backend-driven flags (ROI, processing fee, security, stock statement, limits). 
-*• Worked on document upload, customer data capture, eligibility checks, and application tracking modules. 
-*• Developed dealer-focused loan application flows and dashboards for **Axis Bank LOS**.
+*Implemented dynamic UI rendering using backend-driven flags (ROI, processing fee, security, stock statement, limits). 
+*Worked on document upload, customer data capture, eligibility checks, and application tracking modules. 
+*Developed dealer-focused loan application flows and dashboards for **Axis Bank LOS**.
 
 ---
 
@@ -100,11 +101,14 @@ Dec 2024 – 03 April 2026
 **Redmil Business Mall**
 Sep 2024 – Nov 2025
 
-* Developed fintech modules **AEPS, Micro-ATM, Recharge, Bill Payment, Cash-Out**
-* Implemented **JWT based authentication with RBAC**
-* Integrated **Mantra & Morpho biometric devices with Angular SDKs**
-* Reduced **transaction errors by 40%**
-* Automated workflows using **Spring Boot + Selenium WebDriver**
+*Enhanced and maintained **full-stack** web applications using **Java Spring Boot and Angular 18**. 
+*Built fintech modules including **AEPS, Micro-ATM, Recharge, Bill Payment**, and Cash-Out with end-to-end API integration. 
+*Implemented secure **role-based access control** (Admin, Agent, Retailer) using JWT. 
+*Integrated **Mantra, Morpho biometric**, and **Micro-ATM devices** using **Angular SDKs** for Aadhaar-based authentication — 
+achieved 90% success rate and reduced transaction **errors by 40%**.
+*Collaborated with backend teams for **API optimization**, error handling, and secure integration. 
+*Created **Java Spring Boot backend** services for data extraction and export via **REST APIs**, improving processing efficiency and 
+scalability. 
 
 ---
 
@@ -113,9 +117,12 @@ Sep 2024 – Nov 2025
 **Redmil Business Mall**
 Apr 2022 – Apr 2024
 
-* Built Angular applications for financial platforms
-* Developed **reusable UI components using RxJS**
-* Reduced **UI latency by 35% using optimized change detection**
+*Expanded and optimized **Angular applications for financial services**. 
+*Improved **UI/UX** and resolved API synchronization issues in **HDFC Loan CRM**, reducing lead processing time. 
+*Optimized reusable Angular components for real-time financial dashboards, reducing development time for new modules by 
+40%. 
+*Reduced UI latency by 35% using zone-less patterns and **manual change detection**. 
+
 
 ---
 
@@ -123,62 +130,55 @@ Apr 2022 – Apr 2024
 
 ### Satendracoder Developer Suite (Open Source)
 
-Full stack developer utility platform including tools like:
+*A full-stack platform built under the personal brand "Satendra Coder" featuring developer resources, blogging, and learning 
+modules. 
 
-* JSON Formatter
-* Base64 Encoder
-* QR Generator
-
-Tech: Angular • Spring Boot • JWT • MySQL • Docker
+***Tech:** Angular • Spring Boot • JWT • MySQL • Docker
 
 ---
 
 ### ADCB Loan Origination System
 
-Configurable multi-step loan journey platform for financial onboarding.
+*Built configurable multi-step loan journeys in Angular integrated with Java Spring Boot APIs for end-to-end loan onboarding. 
 
-Tech: Angular • Spring Boot • Angular Material
+***Tech:** Angular, Angular Material, Jira, Git, GitHub, Scrum
 
 ---
 
 ### Axis Bank Dealer LOS
 
-Dealer loan origination dashboards and tracking modules.
+*Developed dealer-focused loan origination flows, dashboards, and application tracking modules in Angular with backend 
+integration. 
 
-Tech: Angular • Spring Boot • MySQL
+***Tech:** - Angular, Angular Material, Jira, Spring Boot, MySQL 
 
 ---
 
 ### Redmil FinTech Platform
 
-Complete fintech platform supporting:
-
-* AEPS
-* Recharge
-* Bill Payments
-* Wallet Transactions
-* Micro-ATM
-
-Tech: Angular • REST APIs • JWT • RxJS
+*Developed a full-featured fintech web application supporting AEPS, Recharge, Bill Payments, Wallet Transactions, and Micro
+ ATM services. Implemented secure login, authentication & authorization, transaction dashboards, and API integration for 
+ payments. Designed UI/UX and consumed APIs for multiple financial services modules independently. 
+***Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS 
 
 ---
 
 ### HDFC Loan CRM
 
-Customer onboarding and loan approval workflow system.
-
-Tech: Angular • REST APIs • JWT
+*Built an Angular-based CRM for customer on-boarding, loan application workflows, and approval process with secure API 
+integration. 
+***Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS, GitHub, Postman
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Top Projects
 
 | Project          | Description                        | Tech                 |
 | ---------------- | ---------------------------------- | -------------------- |
-| Developer Suite  | 10+ developer utilities platform   | Angular, Spring Boot |
+| Developer Suite  | Built under the personal brand    | Angular, Spring Boot |
 | ADCB LOS         | Loan Origination System            | Angular, Spring Boot |
 | Axis Bank LOS    | Dealer Loan Journey System         | Angular              |
-| FinTech Platform | AEPS, Recharge, Micro-ATM services | Angular, REST APIs   |
+| FinTech Platform | AEPS, Recharge, Micro-ATM services | Angular, REST APIs   | 
 
 ---
 
@@ -210,20 +210,5 @@ Tech: Angular • REST APIs • JWT
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satendracoder&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/satendracoder/satendracoder/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ⭐ If you like my work, please give a star to my repositories.
