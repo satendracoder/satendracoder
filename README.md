@@ -60,8 +60,8 @@ and maintaining secure REST APIs and backend services.
 
 # ⚡ Core Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=angular,ts,js,java,spring,mysql,git,github,postman,docker,vscode"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,angular,ts,js,java,spring,mysql,git,github,postman,docker,vscode"/>
 </p>
 
 ---
