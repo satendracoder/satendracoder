@@ -89,8 +89,8 @@ and maintaining secure REST APIs and backend services.
 Dec 2024 – 03 April 2026
 
 * Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan onboarding workflow efficiency by 30%. 
-* Implemented dynamic UI rendering using backend-driven flags (ROI, processing fee, security, stock statement, limits). 
-* Worked on document upload, customer data capture, eligibility checks, and application tracking modules. 
+* Implemented dynamic UI rendering using backend-driven flags (**ROI, processing fee, security, stock statement, limits**). 
+* Worked on document **upload**, customer data capture, **eligibility checks**, and application tracking modules. 
 * Developed dealer-focused loan application flows and dashboards for **Axis Bank LOS**.
 
 ---
@@ -100,13 +100,13 @@ Dec 2024 – 03 April 2026
 **Redmil Business Mall**
 Sep 2024 – Nov 2025
 
-Enhanced and maintained **full-stack** web applications using **Java Spring Boot and Angular 18**. 
-Built fintech modules including **AEPS, Micro-ATM, Recharge, Bill Payment**, and Cash-Out with end-to-end API integration. 
-Implemented secure **role-based access control** (Admin, Agent, Retailer) using JWT. 
-Integrated **Mantra, Morpho biometric**, and **Micro-ATM devices** using **Angular SDKs** for Aadhaar-based authentication — 
+* Enhanced and maintained **full-stack** web applications using **Java Spring Boot and Angular 18**. 
+* Built fintech modules including **AEPS, Micro-ATM, Recharge, Bill Payment**, and Cash-Out with end-to-end API integration. 
+* Implemented secure **role-based access control** (Admin, Agent, Retailer) using JWT. 
+* Integrated **Mantra, Morpho biometric**, and **Micro-ATM devices** using **Angular SDKs** for Aadhaar-based authentication — 
 achieved 90% success rate and reduced transaction **errors by 40%**.
-Collaborated with backend teams for **API optimization**, error handling, and secure integration. 
-Created **Java Spring Boot backend** services for data extraction and export via **REST APIs**, improving processing efficiency and 
+* Collaborated with backend teams for **API optimization**, error handling, and secure integration. 
+* Created **Java Spring Boot backend** services for data extraction and export via **REST APIs**, improving processing efficiency and 
 scalability. 
 
 ---
@@ -116,11 +116,11 @@ scalability.
 **Redmil Business Mall**
 Apr 2022 – Apr 2024
 
-*Expanded and optimized **Angular applications for financial services**. 
-*Improved **UI/UX** and resolved API synchronization issues in **HDFC Loan CRM**, reducing lead processing time. 
-*Optimized reusable Angular components for real-time financial dashboards, reducing development time for new modules by 
-40%. 
-*Reduced UI latency by 35% using zone-less patterns and **manual change detection**. 
+* Expanded and optimized **Angular applications for financial services**. 
+* Improved **UI/UX** and resolved API synchronization issues in **HDFC Loan CRM**, reducing lead processing time. 
+* Optimized reusable **Angular components** for real-time financial dashboards, reducing development time for **new modules by 
+40%**. 
+* Reduced **UI latency by 35%** using zone-less patterns and **manual change detection**. 
 
 
 ---
@@ -129,7 +129,7 @@ Apr 2022 – Apr 2024
 
 ### Satendracoder Developer Suite (Open Source)
 
-*A full-stack platform built under the personal brand "Satendra Coder" featuring developer resources, blogging, and learning 
+*A full-stack platform built under the personal brand **"Satendra Coder"** featuring developer resources, blogging, and learning 
 modules. 
 
 ***Tech:** Angular • Spring Boot • JWT • MySQL • Docker
