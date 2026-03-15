@@ -172,9 +172,9 @@ integration.
 
 # ⭐ Top Projects
 
-| Project          | Description                        | Tech                 |
+| Project          | Description                        | Tech                 | 
 | ---------------- | ---------------------------------- | -------------------- |
-| Developer Suite  | Built under the personal brand    | Angular, Spring Boot |
+| Personal Project | Built under the personal brand     | Angular, Spring Boot |
 | ADCB LOS         | Loan Origination System            | Angular, Spring Boot |
 | Axis Bank LOS    | Dealer Loan Journey System         | Angular              |
 | FinTech Platform | AEPS, Recharge, Micro-ATM services | Angular, REST APIs   | 
