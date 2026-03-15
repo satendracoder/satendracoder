@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
-<h3 align="center">Senior Angular Developer (4+ Years) | Full Stack (Angular + Java)</h3>
+<h3 align="center">Senior Angular Developer (3.5+ Years) | Full Stack (Angular + Java)</h3>
 
 <p align="center">
 Building scalable fintech and enterprise web applications 🚀
@@ -49,7 +49,7 @@ Building scalable fintech and enterprise web applications 🚀
 
 # 👨‍💻 Professional Summary
 
-Senior Angular Developer with **4+ years of experience** building scalable and secure web applications using **Angular 14–18, RxJS, Signals, and Java Spring Boot**.
+Senior Angular Developer with **3.5+ years of experience** building scalable and secure web applications using **Angular 14–18, RxJS, Signals, and Java Spring Boot**.
 
 Experienced in **FinTech modules like AEPS, Recharge, Micro-ATM, Bill Payments, and Loan Management Systems** with strong expertise in **REST API integration, JWT authentication, and reusable component architecture**.
 
@@ -85,12 +85,13 @@ Skilled in **Git, CI/CD pipelines, PWA development, SDK integrations, and automa
 ### Full Stack Developer (Angular + Java)
 
 **Vastika Technologies — Contract**
-Dec 2024 – Mar 2026
+Dec 2024 – 03 April 2026
 
-* Built configurable **loan journeys for ADCB LOS** using Angular
-* Implemented **dynamic UI rendering using backend driven flags**
-* Developed **document upload, eligibility checks, and application tracking modules**
-* Built **dealer dashboards and loan workflows for Axis Bank LOS**
+*•Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan 
+  onboarding workflow efficiency by 30%. 
+*• Implemented dynamic UI rendering using backend-driven flags (ROI, processing fee, security, stock statement, limits). 
+*• Worked on document upload, customer data capture, eligibility checks, and application tracking modules. 
+*• Developed dealer-focused loan application flows and dashboards for **Axis Bank LOS**.
 
 ---
 
