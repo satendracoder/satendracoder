@@ -170,6 +170,14 @@ integration.
 
 ---
 
+### Redmil Website PPF (Paint Protection Film) 
+
+* Developed a dynamic Angular website for paint protection film services including car listings, product management, blogs, and 
+admin dashboard.  
+* **Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS, GitHub, Postman 
+
+---
+
 # ⭐ Top Projects
 
 | Project          | Description                        | Tech                 | 
