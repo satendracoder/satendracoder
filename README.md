@@ -162,7 +162,7 @@ integration.
 
 ---
 
-### HDFC Loan CRM
+### Redmil HDFC Loan CRM
 
 * Built an Angular-based CRM for customer on-boarding, loan application workflows, and approval process with secure API 
 integration. 
@@ -170,7 +170,7 @@ integration.
 
 ---
 
-### Redmil Website PPF (Paint Protection Film) 
+### Redmil PPF (Paint Protection Film) 
 
 * Developed a dynamic Angular website for paint protection film services including car listings, product management, blogs, and 
 admin dashboard.  
