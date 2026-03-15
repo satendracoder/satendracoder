@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satendra & Satendra Coder</h1>
+<h1 align="center">Hi 👋, I'm Satendra</h1>
 <h3 align="center">Senior Angular Developer (3.5+ Years) | Full Stack (Angular + Java)</h3>
 
 <p align="center">
