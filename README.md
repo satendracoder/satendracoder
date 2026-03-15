@@ -129,7 +129,7 @@ Apr 2022 – Apr 2024
 
 ### Satendracoder Developer Suite (Open Source)
 
-*A full-stack platform built under the personal brand **"Satendra Coder"** featuring developer resources, blogging, and learning 
+* A full-stack platform built under the personal brand **"Satendra Coder"** featuring developer resources, blogging, and learning 
 modules. 
 
 ***Tech:** Angular • Spring Boot • JWT • MySQL • Docker
@@ -138,7 +138,7 @@ modules.
 
 ### ADCB Loan Origination System
 
-*Built configurable multi-step loan journeys in Angular integrated with Java Spring Boot APIs for end-to-end loan onboarding. 
+* Built configurable multi-step loan journeys in Angular integrated with Java Spring Boot APIs for end-to-end loan onboarding. 
 
 ***Tech:** Angular, Angular Material, Jira, Git, GitHub, Scrum
 
@@ -146,7 +146,7 @@ modules.
 
 ### Axis Bank Dealer LOS
 
-*Developed dealer-focused loan origination flows, dashboards, and application tracking modules in Angular with backend 
+* Developed dealer-focused loan origination flows, dashboards, and application tracking modules in Angular with backend 
 integration. 
 
 ***Tech:** - Angular, Angular Material, Jira, Spring Boot, MySQL 
@@ -155,7 +155,7 @@ integration.
 
 ### Redmil FinTech Platform
 
-*Developed a full-featured fintech web application supporting AEPS, Recharge, Bill Payments, Wallet Transactions, and Micro
+* Developed a full-featured fintech web application supporting AEPS, Recharge, Bill Payments, Wallet Transactions, and Micro
  ATM services. Implemented secure login, authentication & authorization, transaction dashboards, and API integration for 
  payments. Designed UI/UX and consumed APIs for multiple financial services modules independently. 
 ***Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS 
@@ -164,7 +164,7 @@ integration.
 
 ### HDFC Loan CRM
 
-*Built an Angular-based CRM for customer on-boarding, loan application workflows, and approval process with secure API 
+* Built an Angular-based CRM for customer on-boarding, loan application workflows, and approval process with secure API 
 integration. 
 ***Tech:** - Angular, Angular Material, REST APIs, JWT, RxJS, GitHub, Postman
 
