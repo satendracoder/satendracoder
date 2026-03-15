@@ -89,8 +89,11 @@ and maintaining secure REST APIs and backend services.
 Dec 2024 – 03 April 2026
 
 Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan onboarding workflow efficiency by 30%. 
+
 Implemented dynamic UI rendering using backend-driven flags (ROI, processing fee, security, stock statement, limits). 
+
 Worked on document upload, customer data capture, eligibility checks, and application tracking modules. 
+
 Developed dealer-focused loan application flows and dashboards for **Axis Bank LOS**.
 
 ---
