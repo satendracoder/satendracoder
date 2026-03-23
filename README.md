@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
-<h3 align="center">Senior Angular Developer (3.5+ Years) | Full Stack (Angular + Java)</h3>
+<h3 align="center">Senior Angular Developer (4 Years) | Full Stack (Angular + Java)</h3>
 
 <p align="center">
 Building scalable fintech and enterprise web applications 🚀
@@ -49,7 +49,7 @@ Building scalable fintech and enterprise web applications 🚀
 
 # 👨‍💻 Professional Summary
 
-**Full Stack developer** with **3.5+ years of experience** in building responsive, secure, and scalable web applications using **Angular (v14 18), TypeScript, RxJS**, and Signals. Strong expertise in UI/UX optimization, REST API integration, and JWT-based authentication. 
+**Full Stack developer** with **around 4 years of experience** in building responsive, secure, and scalable web applications using **Angular (v14 18), TypeScript, RxJS**, and Signals. Strong expertise in UI/UX optimization, REST API integration, and JWT-based authentication. 
 Experienced in developing fintech solutions including **AEPS, Recharge, Micro-ATM, Bill Payments, and Banking LOS** modules using 
 reusable and scalable component architecture.- 
 Proficient with modern development tools and workflows including **Git, GitHub, CI/CD pipelines, PWA development, Device SDK**
