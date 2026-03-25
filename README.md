@@ -97,7 +97,7 @@ Dec 2024 – 03 April 2026
 
 ### Full Stack Developer (Angular + Java)
 
-**Redmil Business Mall**
+**Redmil Business Mall —**
 Sep 2024 – Nov 2025
 
 * Enhanced and maintained **full-stack** web applications using **Java Spring Boot and Angular 18**. 
@@ -113,7 +113,7 @@ scalability.
 
 ### Angular Developer
 
-**Redmil Business Mall**
+**Redmil Business Mall  —**
 Apr 2022 – Apr 2024
 
 * Expanded and optimized **Angular applications for financial services**. 
