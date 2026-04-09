@@ -6,8 +6,12 @@ Building scalable fintech and enterprise web applications 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Angular+Developer;Full+Stack+Developer+(Angular+%2B+Java);FinTech+Application+Builder;Open+Source+Contributor&center=true&width=500&height=45">
+<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Angular+Developer;Full+Stack+Developer+(Angular+%2B+Java);FinTech+Application+Builder;Open+Source+Contributor&center=true&width=500&height=45"> -->
+
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Expert;Fintech+Application+Builder;REST+API+%26+Microservices&center=true&width=500&height=45">
 </p>
+
+
 
 ---
 
