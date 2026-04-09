@@ -90,7 +90,7 @@ and maintaining secure REST APIs and backend services.
 ### Full Stack Developer (Angular + Java)
 
 **Vastika Technologies — Contract**
-Dec 2024 – 03 April 2026
+Dec 2024 – Present
 
 * Built configurable multi-step loan journeys for **ADCB Loan Origination System** using Angular, improving loan onboarding workflow efficiency by 30%. 
 * Implemented dynamic UI rendering using backend-driven flags (**ROI, processing fee, security, stock statement, limits**). 
