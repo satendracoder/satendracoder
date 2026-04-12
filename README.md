@@ -102,7 +102,7 @@ Dec 2024 – Present
 ### Full Stack Developer (Angular + Java)
 
 **Redmil Business Mall —**
-Sep 2024 – Nov 2025
+May 2024 – Nov 2025
 
 * Enhanced and maintained **full-stack** web applications using **Java Spring Boot and Angular 18**. 
 * Built fintech modules including **AEPS, Micro-ATM, Recharge, Bill Payment**, and Cash-Out with end-to-end API integration. 
