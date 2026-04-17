@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
-<h3 align="center">Java Full Stack Developer (4+ Years) | Spring Boot & Angular Expert</h3>
+<h3 align="center">Software Engineer (Java | Spring Boot | Angular) | Angular Specialist | Full Stack Developer | Microservices | REST APIs | Fintech | 4+ YOE</h3>
 
 <p align="center">
 Building scalable fintech and enterprise web applications 🚀
