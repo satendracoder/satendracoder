@@ -195,9 +195,9 @@ admin dashboard.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=satendracoder&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=satendra2rajput&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendracoder&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satendra2rajput&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -206,7 +206,7 @@ admin dashboard.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satendracoder&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satendra2rajput&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -214,7 +214,7 @@ admin dashboard.
 # 🧠 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/satendracoder?theme=dark&font=baloo&ext=contest&border=0" />
+<img src="https://leetcard.jacoblin.cool/satendra2rajput?theme=dark&font=baloo&ext=contest&border=0" />
 </p>
 
 ---
